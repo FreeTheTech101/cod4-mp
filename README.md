@@ -1,11 +1,9 @@
 Overview
 --
-_CoD4-MP_ is a modification project designed to lighten up Call of Duty 4 Multiplayer. It introduces new features that have never been seen in this game before, as well as bug fixing and complete removal of insignificant/useless features.
+_CoD4-MP_ is a modification project designed to lighten up Call of Duty 4 Multiplayer. It introduces new features that have never been seen in this game before, alongside bug fixing and removal of insignificant, useless or even disturbing features.
 
-
-Features
+What's done so far
 --
-Current features that have thus far been successfully implemented:
 * Complete removal of Punkbuster
 * Customizable localized UI strings
 * Complete removal of CD key authentication
