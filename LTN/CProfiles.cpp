@@ -1,6 +1,6 @@
-// ================== CoD4: Multiplayer - http://code.google.com/cod4-mp/ ==================
+// ================== CoD4: Multiplayer - http://github.com/vorhon/cod4-mp/ ==================
 //
-// File:			CProfiles.cpp
+// File:		CProfiles.cpp
 // Description:		Complete removal of the profiles system.
 // Start date:		July 30th, 2014
 //
