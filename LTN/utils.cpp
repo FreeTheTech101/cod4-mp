@@ -4,7 +4,7 @@
 // Description:		-
 // Start date:		July 30th, 2014
 //
-// Author(s):		vorhon (vorhon@outlook.com)
+// Author(s):		-
 //
 // =========================================================================================
 
