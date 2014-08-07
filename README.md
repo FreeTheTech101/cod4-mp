@@ -16,6 +16,7 @@ What's done so far
 TODO
 --
 * Possibility to load custom fastfiles
+* Organize the code even more than it is
 
 Legal
 --
