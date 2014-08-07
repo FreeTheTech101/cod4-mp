@@ -1,3 +1,13 @@
+// ================== CoD4: Multiplayer - http://github.com/vorhon/cod4-mp/ ==================
+//
+// File:		CExperiments.cpp
+// Description:		-
+// Start date:		July 30th, 2014
+//
+// Author(s):		vorhon (vorhon@outlook.com)
+//
+// =========================================================================================
+
 #include "stdafx.h"
 
 void Menus_Open_Hook(const char* menu)

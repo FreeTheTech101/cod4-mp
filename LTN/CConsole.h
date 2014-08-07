@@ -1,3 +1,13 @@
+// ================== CoD4: Multiplayer - http://github.com/vorhon/cod4-mp/ ==================
+//
+// File:		CConsole.h
+// Description:		Unlocks & fixes the console and makes it customizable.
+// Start date:		July 30th, 2014
+//
+// Author(s):		vorhon (vorhon@outlook.com)
+//
+// =========================================================================================
+
 #ifndef __CCONSOLE_H__
 #define __CCONSOLE_H__
 

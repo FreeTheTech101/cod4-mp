@@ -1,3 +1,13 @@
+// ================== CoD4: Multiplayer - http://github.com/vorhon/cod4-mp/ ==================
+//
+// File:		CGame.h
+// Description:		The game stuff.
+// Start date:		July 30th, 2014
+//
+// Author(s):		vorhon (vorhon@outlook.com)
+//
+// =========================================================================================
+
 #ifndef __CGAME_H__
 #define __CGAME_H__
 

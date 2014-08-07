@@ -1,3 +1,13 @@
+// ================== CoD4: Multiplayer - http://github.com/vorhon/cod4-mp/ ==================
+//
+// File:		utils.cpp
+// Description:		-
+// Start date:		July 30th, 2014
+//
+// Author(s):		vorhon (vorhon@outlook.com)
+//
+// =========================================================================================
+
 #include "stdafx.h"
 
 void* DetourFunction(BYTE *source, const BYTE *destination, const int length)

@@ -1,3 +1,13 @@
+// ================== CoD4: Multiplayer - http://github.com/vorhon/cod4-mp/ ==================
+//
+// File:		CCommands.h
+// Description:		Custom commands.
+// Start date:		July 30th, 2014
+//
+// Author(s):		vorhon (vorhon@outlook.com)
+//
+// =========================================================================================
+
 #ifndef __CCOMMANDS_H__
 #define __CCOMMANDS_H__
 

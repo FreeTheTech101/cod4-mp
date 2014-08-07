@@ -1,3 +1,13 @@
+// ================== CoD4: Multiplayer - http://github.com/vorhon/cod4-mp/ ==================
+//
+// File:		CFastFiles.cpp
+// Description:		Loads custom fastfiles.
+// Start date:		July 30th, 2014
+//
+// Author(s):		vorhon (vorhon@outlook.com)
+//
+// =========================================================================================
+
 #include "stdafx.h"
 
 // THIS IS JUST MY FIRST ATTEMPT.
